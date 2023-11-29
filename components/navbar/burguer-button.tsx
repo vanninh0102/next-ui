@@ -1,4 +1,4 @@
-import React from "react";
+"use client";
 import { useSidebarContext } from "../layout/layout-context";
 import { StyledBurgerButton } from "./navbar.styles";
 

@@ -1,3 +1,4 @@
+"use client";
 import {
   Button,
   Input,
@@ -8,7 +9,6 @@ import {
   ModalHeader,
   useDisclosure,
 } from "@nextui-org/react";
-import React from "react";
 
 export const AddUser = () => {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();

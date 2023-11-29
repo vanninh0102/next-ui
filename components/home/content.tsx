@@ -1,4 +1,4 @@
-import React from "react";
+"use client";
 import dynamic from "next/dynamic";
 import { TableWrapper } from "../table/table";
 import { CardBalance1 } from "./card-balance1";

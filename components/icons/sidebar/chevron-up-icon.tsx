@@ -1,4 +1,4 @@
-import React from "react";
+"use client";
 
 interface Props extends React.SVGAttributes<SVGElement> {}
 
